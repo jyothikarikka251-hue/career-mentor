@@ -1,0 +1,31 @@
+{
+  "AI Engineer": ["Python","TensorFlow","PyTorch","Machine Learning","Deep Learning"],
+  "Machine Learning Engineer": ["Python","Scikit-Learn","TensorFlow","PyTorch"],
+  "Data Scientist": ["Python","Pandas","NumPy","SQL","Statistics"],
+  "Data Analyst": ["Excel","SQL","Power BI","Python"],
+  "Generative AI Engineer": ["Python","LLMs","Prompt Engineering","RAG"],
+  "Prompt Engineer": ["Prompt Design","LLMs","Testing"],
+
+  "Frontend Developer": ["HTML","CSS","JavaScript","React"],
+  "Backend Developer": ["Python","Java","SQL","REST API"],
+  "Full Stack Developer": ["React","Node.js","MongoDB","SQL"],
+
+  "Software Engineer": ["Java","Python","DSA","Git"],
+  "Java Developer": ["Java","Spring Boot","SQL"],
+  "Python Developer": ["Python","Django","Flask"],
+
+  "Cloud Engineer": ["AWS","Azure","Docker","Kubernetes"],
+  "DevOps Engineer": ["Docker","Jenkins","Kubernetes","GitHub Actions"],
+
+  "Cyber Security Analyst": ["Networking","Linux","Wireshark","Security"],
+
+  "Blockchain Developer": ["Solidity","Ethereum","Web3"],
+
+  "Mobile App Developer": ["Flutter","Android","Java","Kotlin"],
+
+  "UI/UX Designer": ["Figma","Wireframing","Prototyping"],
+
+  "Product Manager": ["Agile","Product Strategy","Analytics"],
+
+  "Game Developer": ["Unity","C#","Game Design"]
+}
